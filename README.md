@@ -1,0 +1,1 @@
+Usando eslint, babel, webpack e treinando o uso de componetização do curso de Introdução ao React.
