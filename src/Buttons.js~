@@ -1,0 +1,10 @@
+import React from 'react';
+
+const Buttons = () => (
+<button>Primeiro</button>
+<button>Segundo</button>
+<button>Terceiro</button>
+<button>Quarto</button>
+)
+
+export default Buttons;
